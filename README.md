@@ -29,7 +29,8 @@ second option is the URI.
 Without options: the script does only a dry run, outputting analytic information about the session file. A present session file will not be modified.
 
 BUGS:
--Windows will be restored on the active desktop. 'Cause Firefox does not store the desktop number in the session file...
+
+Windows will be restored on the active desktop. 'Cause Firefox does not store the desktop number in the session file...
 And a few others, being fixed in next upload
 
 TRIVIA:
